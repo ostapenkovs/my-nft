@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Name",
+        "value": "Vasyl"
+      },
+      {
+        "trait_type": "Age",
+        "value": "20"
+      }
+    ],
+    "description": "Vasyl's pixelated LinkedIn profile picture",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmf9UQxbin7kGFSCtWBnRQRBouKq6DXubNW4HCYBdqaynS",
+    "name": "Vasyl"
+  }
+  
